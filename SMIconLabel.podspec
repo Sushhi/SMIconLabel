@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SMIconLabel"
-  s.version      = "0.4.0"
+  s.version      = "0.4.1"
   s.summary      = "UILabel with image placed on the left or right side"
 
   s.description  = <<-DESC
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
                    Take a look at preview image or build smaple app to see how it works.
                    DESC
 
-  s.homepage     = "https://github.com/anatoliyv/SMIconLabel"
+  s.homepage     = "https://github.com/Sushhi/SMIconLabel"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
